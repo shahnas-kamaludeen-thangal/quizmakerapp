@@ -50,7 +50,7 @@ const Results = () => {
       >
         You Scored {totalScore} out of 5
       </p>
-      <Link to="/">
+      <Link to="/quizmakerapp">
         <button className="bg-gray-500 w-[250px] m-2 p-2 rounded-md shadow-md">
           Create a new quiz
         </button>
