@@ -13,7 +13,7 @@ root.render(
     <Router>
       <App />
       <Routes>
-        <Route path="/" element={<Questions />} />
+        <Route path="/quizmakerapp" element={<Questions />} />
         <Route path="/results" element={<Results />} />
       </Routes>
     </Router>
